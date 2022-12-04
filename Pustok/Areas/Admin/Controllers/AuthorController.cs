@@ -4,7 +4,7 @@ using Pustok.Models;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Pustok.Areas.Admin.Controllers
+namespace Pustok.Areas.manage.Controllers
 {
     [Area("Admin")]
     public class AuthorController : Controller

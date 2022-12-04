@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Pustok.Areas.Admin.Controllers
+namespace Pustok.Areas.manage.Controllers
 {
     [Area("Admin")]
     public class DashBoardController : Controller
@@ -9,6 +9,5 @@ namespace Pustok.Areas.Admin.Controllers
         {
             return View();
         }
-      
     }
 }
